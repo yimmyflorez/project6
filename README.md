@@ -1,3 +1,7 @@
+# Mi Proyecto Streamlit
+
+Este es un proyecto de ejemplo que muestra cómo usar Streamlit para crear visualizaciones interactivas de datos.
+
 # Aplicación Web de Análisis de Vehículos
 
 Esta aplicación web permite visualizar y analizar datos de anuncios de venta de coches. Fue desarrollada como parte de un proyecto para practicar tareas habituales de la ingeniería de software, incluyendo la creación y gestión de entornos virtuales de Python, el desarrollo de una aplicación web y su despliegue en la nube.
@@ -17,7 +21,7 @@ La aplicación proporciona las siguientes funcionalidades:
 
 ## Despliegue
 
-La aplicación está desplegada en Render y puede ser accesible públicamente 
+La aplicación está desplegada en Render y puede ser accesible públicamente en el siguiente [link](https://project6-1.onrender.com)
 
 ## Datos
 
